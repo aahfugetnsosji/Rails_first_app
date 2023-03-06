@@ -1,3 +1,3 @@
-# DMM WEBCAMPコンテンツ【Railsを学ぼう】
+# DMM WEBCAMPカリキュラム【Railsを学ぼう】
 
-- DMM WEBCAMPの学習カリキュラムRailsを学ぼうで作成したfrst_appです。
+- DMM WEBCAMPの学習カリキュラム「Railsを学ぼう」で作成したfirst_appです。
